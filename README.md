@@ -49,5 +49,6 @@ The goal of this project is to streamline daily workflows by allowing natural la
 ```bash
 git clone https://github.com/Lina-hamad24/n8n-mcp-automation.git
 cd n8n-mcp-automation
+---
+https://github.com/user-attachments/assets/67096c30-9b44-470b-b32b-dc3eb1d9a53c
 
-![4p9p4o](https://github.com/user-attachments/assets/ee160128-6d29-4229-8a9d-d8a6bc7fa8d9)
