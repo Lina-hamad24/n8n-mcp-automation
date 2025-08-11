@@ -50,4 +50,4 @@ The goal of this project is to streamline daily workflows by allowing natural la
 git clone https://github.com/Lina-hamad24/n8n-mcp-automation.git
 cd n8n-mcp-automation
 
-https://github.com/user-attachments/assets/ee160128-6d29-4229-8a9d-d8a6bc7fa8d9
+![4p9p4o](https://github.com/user-attachments/assets/ee160128-6d29-4229-8a9d-d8a6bc7fa8d9)
