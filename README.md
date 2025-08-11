@@ -43,12 +43,11 @@ The goal of this project is to streamline daily workflows by allowing natural la
 ---
 
 ## 🚀 Getting Started
+https://github.com/user-attachments/assets/67096c30-9b44-470b-b32b-dc3eb1d9a53c
 
 ### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Lina-hamad24/n8n-mcp-automation.git
 cd n8n-mcp-automation
----
-https://github.com/user-attachments/assets/67096c30-9b44-470b-b32b-dc3eb1d9a53c
 
